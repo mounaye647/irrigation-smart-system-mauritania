@@ -53,7 +53,7 @@ FAO : https://www.fao.org/aquastat/en/geospatial-information/global-maps-irrigat
 
 DEA Cropland Map (Afrique)  https://gee-community-catalog.org/projects/dea_croplands/#preprocessing-for-gee
 
-World Bank Data : ttps://datacatalog.worldbank.org/search/dataset/0039827/global-map-of-irrigation-areas
+World Bank Data :https://datacatalog.worldbank.org/search/dataset/0039827/global-map-of-irrigation-areas
 
 Technologies utilisées
 
